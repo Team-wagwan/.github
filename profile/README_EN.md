@@ -36,8 +36,8 @@ With AI-powered news generation, you can create **realistic-looking fake news pa
 FakeTimes leverages modern web technologies to provide a **fast and intuitive user experience**.  
 
 - **iOS:** SwiftUI  
-- **Web:** React, TypeScript, SCSS, GitHub Pages  
-- **Server:** Java, Spring, Docker  
+- **Web:** TypeScript, React, SCSS, GitHub Pages  
+- **Server:** Kotlin, Spring, Docker  
 
 ---
 
