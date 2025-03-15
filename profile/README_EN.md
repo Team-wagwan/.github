@@ -1,4 +1,5 @@
 # 📰 FakeTimes: The Ultimate Fake News Generator  
+![intro - en](https://github.com/user-attachments/assets/66b2f33e-61f0-46f8-8073-ac595b6012ee)
 
 
 ---
