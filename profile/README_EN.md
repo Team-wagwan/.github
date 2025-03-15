@@ -5,7 +5,7 @@
 ---
 
 ## 🔎 Project Overview  
-**FakeTimes** is a **web service that allows anyone to easily create and share fake news**.  
+**FakeTimes** is a **App service that allows anyone to easily create and share fake news**.  
 Use humor and satire to craft entertaining news articles and share them with your friends!  
 With AI-powered news generation, you can create **realistic-looking fake news pages effortlessly**.  
 
