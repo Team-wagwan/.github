@@ -53,5 +53,5 @@ FakeTimes supports **both Korean and English**, making it accessible to a wide a
 FakeTimes is a **fun platform where anyone can quickly create and share fake news**.  
 Start now and **experience the world of fake news creation!**  
 
-👉 **[Visit FakeTimes](https://githubqtaghdi.github.io/FakeTimes-web)**  
+👉 **[Visit FakeTimes](https://team-wagwan.github.io/FakeTimes-Web/)**  
 👉 **[Download FakeTimes](https://githubqtaghdi.github.io/FakeTimes-web)**
