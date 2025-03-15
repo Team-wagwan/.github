@@ -35,7 +35,7 @@ FakeTimes는 최신 웹 기술을 활용하여 **빠르고 직관적인 사용�
 
 - **iOS:** Switf UI
 - **Web:** React, TypeScript, SCSS, GitHub Pages
-- **SERVER:** Java, Spring, Docker
+- **SERVER:** Java, Spring, Thymeleaf, Docker
 
 ---
 
