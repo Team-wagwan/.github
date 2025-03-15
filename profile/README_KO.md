@@ -34,8 +34,8 @@ AI를 활용한 뉴스 생성 기능을 통해 **더욱 그럴듯한 가짜 뉴�
 FakeTimes는 최신 웹 기술을 활용하여 **빠르고 직관적인 사용자 경험**을 제공합니다.  
 
 - **iOS:** Switf UI
-- **Web:** React, TypeScript, SCSS, GitHub Pages
-- **SERVER:** Java, Spring, Thymeleaf, Docker
+- **Web:** TypeScript, React, SCSS, GitHub Pages  
+- **Server:** Kotlin, Spring, Docker  
 
 ---
 
