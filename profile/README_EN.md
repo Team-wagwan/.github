@@ -54,4 +54,3 @@ FakeTimes is a **fun platform where anyone can quickly create and share fake new
 Start now and **experience the world of fake news creation!**  
 
 👉 **[Visit FakeTimes](https://team-wagwan.github.io/FakeTimes-Web/)**  
-👉 **[Download FakeTimes](https://githubqtaghdi.github.io/FakeTimes-web)**
