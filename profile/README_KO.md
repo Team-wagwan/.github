@@ -35,7 +35,8 @@ FakeTimes는 최신 기술들을 활용하여 **빠르고 직관적인 사용자
 
 - **iOS:** Switf UI, Alamofire
 - **Web:** TypeScript, React, SCSS, GitHub Pages  
-- **Server:** Kotlin, Spring, Docker  
+- **Server:** Kotlin, Spring, Docker
+- **Design:** Figma
 
 ---
 
