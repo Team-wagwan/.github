@@ -52,4 +52,3 @@ FakeTimes는 누구나 쉽고 빠르게 가짜 뉴스를 만들어 공유할 수
 지금 바로 **FakeTimes에 접속하여 가짜 뉴스 생성의 세계를 경험해 보세요!**  
 
 👉 **[FakeTimes 소개 웹사이트 바로가기](https://team-wagwan.github.io/FakeTimes-Web/)**
-👉 **[FakeTimes 설치하기](https://githubqtaghdi.github.io/FakeTimes-web)**
