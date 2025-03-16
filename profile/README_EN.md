@@ -37,7 +37,8 @@ FakeTimes leverages modern technologies to provide a **fast and intuitive user e
 
 - **iOS:** SwiftUI, Alamofire
 - **Web:** TypeScript, React, SCSS, GitHub Pages  
-- **Server:** Kotlin, Spring, Docker  
+- **Server:** Kotlin, Spring, Docker
+- **Design:** Figma
 
 ---
 
